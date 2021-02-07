@@ -1,0 +1,9 @@
+F:\Study\C#\C# Code\EvenNumber\EvenNumber\bin\Debug\EvenNumber.exe.config
+F:\Study\C#\C# Code\EvenNumber\EvenNumber\bin\Debug\EvenNumber.exe
+F:\Study\C#\C# Code\EvenNumber\EvenNumber\bin\Debug\EvenNumber.pdb
+F:\Study\C#\C# Code\EvenNumber\EvenNumber\obj\Debug\EvenNumber.csprojAssemblyReference.cache
+F:\Study\C#\C# Code\EvenNumber\EvenNumber\obj\Debug\EvenNumber.Properties.Resources.resources
+F:\Study\C#\C# Code\EvenNumber\EvenNumber\obj\Debug\EvenNumber.csproj.GenerateResource.cache
+F:\Study\C#\C# Code\EvenNumber\EvenNumber\obj\Debug\EvenNumber.csproj.CoreCompileInputs.cache
+F:\Study\C#\C# Code\EvenNumber\EvenNumber\obj\Debug\EvenNumber.exe
+F:\Study\C#\C# Code\EvenNumber\EvenNumber\obj\Debug\EvenNumber.pdb
